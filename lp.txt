@@ -1698,12 +1698,12 @@
                     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
                     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
                     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-                    <link rel="amphtml" href="https://sklep-tiptopol.sikekaaa.org/" />
-                    <link rel="alternate" hreflang="id-id" href="https://sklep-tiptopol.sikekaaa.org/" />
-                    <link rel="alternate" href="https://sklep-tiptopol.sikekaaa.org/" />
-                    <link rel="alternate" hreflang="id" href="https://sklep-tiptopol.sikekaaa.org/" />
-                    <link rel="alternate" hreflang="en" href="https://sklep-tiptopol.sikekaaa.org/" />
-                    <link rel="alternate" hreflang="x-default" href="https://sklep-tiptopol.sikekaaa.org/" />
+                    <link rel="amphtml" href="https://pakek-la.vercel.app/" />
+                    <link rel="alternate" hreflang="id-id" href="https://pakek-la.vercel.app/" />
+                    <link rel="alternate" href="https://pakek-la.vercel.app/" />
+                    <link rel="alternate" hreflang="id" href="https://pakek-la.vercel.app/" />
+                    <link rel="alternate" hreflang="en" href="https://pakek-la.vercel.app/" />
+                    <link rel="alternate" hreflang="x-default" href="https://pakek-la.vercel.app/" />
                     <link rel="alternate" href="https://138.dou.spb.ru/">
                     <link rel="alternate" href="https://138.dou.spb.ru/" hreflang="ja">
                     <link rel="alternate" href="https://138.dou.spb.ru/" hreflang="en">
@@ -2128,18 +2128,18 @@
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li class="download-app-link">
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a href="https://pakek-la.vercel.app/">
                                                                                                                         <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png"> download apps </a>
                                                                                                               <div class="download-popup">
                                                                                                                         <div class="wrap">
                                                                                                                                   <div class="right-cols">
                                                                                                                                             <div class="app-content"> download app from: <div class="view code app_store">
-                                                                                                                                                                <a class="sh-store-link" href="https://sklep-tiptopol.sikekaaa.org/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                                                                                                                <a class="sh-store-link" href="https://pakek-la.vercel.app/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
                                                                                                                                                       <div class="view code play_store">
-                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://sklep-tiptopol.sikekaaa.org/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://pakek-la.vercel.app/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
@@ -2149,7 +2149,7 @@
                                                                                                               </div>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a href="https://pakek-la.vercel.app/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg"> gift registry </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -2196,15 +2196,15 @@
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li>
-                                                                                                              <a  href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a  href="https://pakek-la.vercel.app/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://pakek-la.vercel.app/images/icon-petir.png">LOGIN </a>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a href="https://pakek-la.vercel.app/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://pakek-la.vercel.app/images/icon-petir.png">DAFTAR </a>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/" target="_blank">
+                                                                                                              <a href="https://pakek-la.vercel.app/" target="_blank">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -4361,7 +4361,7 @@ font-size:12px;
                                                                                                     <a href="/customer/account" class="account-link">Akun Saya</a>
                                                                                           </div>
                                                                                           <button>
-                                                                                                    <a href="https://sklep-tiptopol.sikekaaa.org/">Masuk</a>
+                                                                                                    <a href="https://pakek-la.vercel.app/">Masuk</a>
                                                                                           </button>
                                                                                 </div>
                                                                       </div>
@@ -4374,18 +4374,18 @@ font-size:12px;
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li class="download-app-link">
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a href="https://pakek-la.vercel.app/">
                                                                                                                         <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" /> download apps </a>
                                                                                                               <div class="download-popup">
                                                                                                                         <div class="wrap">
                                                                                                                                   <div class="right-cols">
                                                                                                                                             <div class="app-content"> download app from: <div class="view code app_store">
-                                                                                                                                                                <a class="sh-store-link" href="https://sklep-tiptopol.sikekaaa.org/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                                                                                                                <a class="sh-store-link" href="https://pakek-la.vercel.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
                                                                                                                                                       <div class="view code play_store">
-                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://sklep-tiptopol.sikekaaa.org/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://pakek-la.vercel.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
@@ -4395,7 +4395,7 @@ font-size:12px;
                                                                                                               </div>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a href="https://pakek-la.vercel.app/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" /> gift registry </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -4428,15 +4428,15 @@ font-size:12px;
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li>
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a href="https://pakek-la.vercel.app/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://pakek-la.vercel.app/images/icon-petir.png" />LOGIN </a>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                              <a href="https://pakek-la.vercel.app/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://pakek-la.vercel.app/images/icon-petir.png" />DAFTAR </a>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://sklep-tiptopol.sikekaaa.org/" target="_blank">
+                                                                                                              <a href="https://pakek-la.vercel.app/" target="_blank">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -4583,7 +4583,7 @@ font-size:12px;
                                                             <div class="dropdown switcher-dropdown" data-target="dropdown">
                                                                       <ul class="header links">
                                                                                 <li class="link authorization-link loginRevamp" data-label="Atau">
-                                                                                          <a href="https://sklep-tiptopol.sikekaaa.org/"> Masuk / buat akun </a>
+                                                                                          <a href="https://pakek-la.vercel.app/"> Masuk / buat akun </a>
                                                                                 </li>
                                                                                 <script data-breeze>
                                                                                           require(['jquery'], function($) {
@@ -4883,7 +4883,7 @@ font-size:12px;
                                                                                                     </div>
                                                                                           </div>
                                                                                           <div class="kc-cashback check">
-                                                                                                    <a href="https://sklep-tiptopol.sikekaaa.org/" class="kc-points-lable">
+                                                                                                    <a href="https://pakek-la.vercel.app/" class="kc-points-lable">
                                                                                                               <img src="https://pakek-la.vercel.app/images/icon-petir.png" class="kcpoints-img" width="30px">
                                                                                                               <span>Earn <span class="price">1.000.000</span> - <span class="price">10.000.000</span> Bonus </span>
                                                                                                     </a>
@@ -4996,14 +4996,14 @@ font-size:12px;
                                                                                                                                                       </div>
                                                                                                                                             </div>
                                                                                                                                             <div class="actions">
-                                                                                                                                                      <a href="https://sklep-tiptopol.sikekaaa.org/">
+                                                                                                                                                      <a href="https://pakek-la.vercel.app/">
                                                                                                                                                                 <button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #d31010;">
                                                                                                                                                                           <span>LOGIN</span>
                                                                                                                                                                 </button>
                                                                                                                                                       </a>
-                                                                                                                                                      <a href="https://sklep-tiptopol.sikekaaa.org/" class="action towishlist" data-action="add-to-wishlist">
+                                                                                                                                                      <a href="https://pakek-la.vercel.app/" class="action towishlist" data-action="add-to-wishlist">
                                                                                                                                                                 <span>DAFTAR</span>
-                                                                                                                                                      </a><div id="giftreg-message-pdp" style=""><a href="https://sklep-tiptopol.sikekaaa.org/" class="notlogingift"><img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="" /> CLAIM BONUS </a></div>
+                                                                                                                                                      </a><div id="giftreg-message-pdp" style=""><a href="https://pakek-la.vercel.app/" class="notlogingift"><img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="" /> CLAIM BONUS </a></div>
                                                                                                                                                       <script type="text/x-magento-init" data-breeze-processed="true"> {
         "body": {
             "addToWishlist": {"productType":"configurable","giftcardInfo":"[id^=giftcard]"}        }
@@ -8376,13 +8376,13 @@ function myFunction() {
                                                                                                                                   display: block;
                                                                                                                         }
                                                                                                               }
-                                                                                                    </style></div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi DINGDONGTOGEL</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://sklep-tiptopol.sikekaaa.org/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store"></a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://sklep-tiptopol.sikekaaa.org/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a><style>
+                                                                                                    </style></div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi DINGDONGTOGEL</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://pakek-la.vercel.app/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store"></a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://pakek-la.vercel.app/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a><style>
                                                                                                               @media (min-width:768px) {
                                                                                                                         .footer-google-play-img {
                                                                                                                                   width: 70%;
                                                                                                                         }
                                                                                                               }
-                                                                                                    </style></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;"><p>ikuti kami di media sosial</p><div style="display:flex;column-gap:20px;justify-content: center;"><a class="item" href="https://138.dou.spb.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a><a class="item" href="https://138.dou.spb.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a><a class="item" href="https://138.dou.spb.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a></div></div></div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"><span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span><span><a target="_blank" href="https://sklep-tiptopol.sikekaaa.org/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://pakek-la.vercel.app/images/sg-gc.png" alt="iso logo"></a></span></div><div><span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br> Kementerian Perdagangan RI <br> WhatsApp: +62 821 7750 2820 </span></div><style>
+                                                                                                    </style></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;"><p>ikuti kami di media sosial</p><div style="display:flex;column-gap:20px;justify-content: center;"><a class="item" href="https://138.dou.spb.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a><a class="item" href="https://138.dou.spb.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a><a class="item" href="https://138.dou.spb.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a></div></div></div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"><span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span><span><a target="_blank" href="https://pakek-la.vercel.app/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://pakek-la.vercel.app/images/sg-gc.png" alt="iso logo"></a></span></div><div><span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br> Kementerian Perdagangan RI <br> WhatsApp: +62 821 7750 2820 </span></div><style>
                                                                                                               .cms-page-view .breadcrumbs {
                                                                                                                         display: none;
                                                                                                               }
